@@ -49,11 +49,11 @@
 
 
 
-### 발표 동영상
+### ⬇⬇ 발표 동영상 ⬇⬇
 [![발표 동영상](https://img.youtube.com/vi/vgwLYFPyO30/0.jpg)](https://youtu.be/vgwLYFPyO30)
 
 
-### 작품 시연 동영상
+### ⬇⬇ 작품 시연 동영상 ⬇⬇
 [![작품 시연 동영상](https://img.youtube.com/vi/AwlqMBqLB6s/0.jpg)](https://youtu.be/AwlqMBqLB6s)
 
 <br/>
