@@ -56,35 +56,9 @@
 - **볼린저 밴드 (%b)**: 주가 위치 지표
 - **MFI (Money Flow Index)**: 자금 유입/유출 흐름 파악
 - **추세 추종 기법**:  
-  - 매수 조건: `%b > 0.8 && MFI > 80`  
-  - 매도 조건: `%b < 0.2 && MFI < 20`
-- **LSTM (Long Short-Term Memory)**:  
-  - 시계열 데이터 기반 주가 예측에 활용
-  - Tensorflow 기반 모델 구성
-
-<br/>
-
-## 🏁 향후 발전 방향
-
-- 다양한 주식 분석 기법 추가 (MACD, RSI 등)
-- 예측 모델 고도화 및 다양한 하이퍼파라미터 실험
-- 사용자 맞춤형 포트폴리오 추천 기능 추가
-
-<br/>
-
-## 📚 참고문헌
-
-- 김황후, 「파이썬 증권 데이터 분석」, 한빛미디어, 2020  
-- 존 볼린저, 「볼린저 밴드 투자기법」, 이레미디어, 2010  
-- 김환희, 「텐서플로 2.0 프로그래밍」, 위키북스, 2020  
-- [https://plotly.com/](https://plotly.com/)  
-- [https://dash.plotly.com/](https://dash.plotly.com/)
-
----
-
-## 👨‍💻 Contributors
+  - 매수 발
 
 - 최원우 **[GitHub](https://github.com/chldnjsdn200)**
 - 김남규 **[GitHub](https://github.com/Isanghada/Stock_Analysis)**
-- 한창재 (부경대학교 컴퓨터공학과)
+- 한창재
 
