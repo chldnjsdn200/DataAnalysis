@@ -1,4 +1,4 @@
-# 📈 빅 데이터를 활용한 실시간 주식 동향 분석 시스템
+![image](https://github.com/user-attachments/assets/5e81e656-a061-4b0e-8c3d-df03e15a28c2)# 📈 빅 데이터를 활용한 실시간 주식 동향 분석 시스템
 
 > **Capstone Design 프로젝트 + 대한임베디드학회 논문 요약 정리**
 
@@ -50,7 +50,7 @@
 - 중앙: 종가 및 거래량 캔들차트
 - 우측: 볼린저 밴드, MFI 등 보조 지표 시각화
 
-![주가 분석 예시 이미지](#) <!-- 필요 시 이미지 삽입 -->
+![주가 분석 예시 이미지](#) <!-- https://user-images.githubusercontent.com/90487843/153156062-894cfee3-65c3-48f3-b9ab-70071770cf83.png -->
 
 <br/>
 
