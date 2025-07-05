@@ -48,6 +48,8 @@
 ![주가 분석 예시 이미지](https://raw.githubusercontent.com/chldnjsdn200/DataAnalysis/main/assets/dataanal1.png)
 
 
+[![영상 제목](https://img.youtube.com/vi/AwlqMBqLB6s/0.jpg)](https://youtu.be/AwlqMBqLB6s)
+
 
 <br/>
 
