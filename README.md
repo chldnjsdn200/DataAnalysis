@@ -48,7 +48,8 @@
 - 중앙: 종가 및 거래량 캔들차트
 - 우측: 볼린저 밴드, MFI 등 보조 지표 시각화
 
-(https://raw.githubusercontent.com/chldnjsdn200/DataAnalysis/main/assets/dataanal1.png)
+![주가 분석 예시 이미지](https://raw.githubusercontent.com/chldnjsdn200/DataAnalysis/main/assets/dataanal1.png)
+
 
 
 <br/>
