@@ -87,5 +87,7 @@
 
 ## 👨‍💻 Contributors
 
-- 최원우, 김남규, 한창재 (부경대학교 컴퓨터공학과)
+- 최원우 **[GitHub](https://github.com/chldnjsdn200)**
+- 김남규 **[GitHub](https://github.com/Isanghada/Stock_Analysis)**
+- 한창재 (부경대학교 컴퓨터공학과)
 
