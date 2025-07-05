@@ -35,10 +35,7 @@
 <br/>
 
 ## 🖥️ 시스템 구성도
-[ Client ] ←→ [ Web Server (Dash/Flask) ] ←→ [ Server ] ←→ [ DB ]
-↑
-[ Web Crawling / Open API ]
-
+![주가 분석 예시 이미지](https://raw.githubusercontent.com/chldnjsdn200/DataAnalysis/main/assets/dataanal2.png)
 
 <br/>
 
